@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LINQ</name>
+    </assembly>
+    <members>
+        <member name="T:LINQ.Controllers.BuyersController">
+            <summary>
+            Represents methods to work with the table of the buyers.
+            </summary>
+        </member>
+        <member name="M:LINQ.Controllers.BuyersController.MakeSerializationAndDeserialization(System.String,System.String)">
+            <summary>
+            Serialize buyer table into the file by passed path and deserialize buyer table from the file by passed path. Use command s to serialize and d to deserialize.
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.BuyersController.Get">
+            <summary>
+            Get the list of buyers.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.BuyersController.Get(System.Int32)">
+            <summary>
+            Get the buyer by passed id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.BuyersController.Post(System.String,System.String,System.String,System.String)">
+            <summary>
+            Add a new buyer.
+            </summary>
+            <param name="name"></param>
+            <param name="surname"></param>
+            <param name="city"></param>
+            <param name="country"></param>
+            <returns></returns>
+        </member>
+        <member name="T:LINQ.Controllers.DataBaseController">
+            <summary>
+            Represents methods to work with the database.
+            </summary>
+        </member>
+        <member name="M:LINQ.Controllers.DataBaseController.Get(System.Int32)">
+            <summary>
+            Get the results of the linq-methods.
+            </summary>
+            <param name="number"></param>
+            <returns></returns>
+        </member>
+        <member name="T:LINQ.Controllers.GoodsController">
+            <summary>
+            Represents methods to work with the table of the goods.
+            </summary>
+        </member>
+        <member name="M:LINQ.Controllers.GoodsController.MakeSerializationAndDeserialization(System.String,System.String)">
+            <summary>
+            Serialize buyer table into the file by passed path and deserialize buyer table from the file by passed path. Use command s to serialize and d to deserialize.
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.GoodsController.Get">
+            <summary>
+            Get the list of goods.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.GoodsController.Get(System.Int32)">
+            <summary>
+            Get the good by passed id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.GoodsController.Post(System.String,System.Int32,System.String,System.Int64)">
+            <summary>
+            Add a new good.
+            </summary>
+            <param name="name"></param>
+            <param name="shopId"></param>
+            <param name="category"></param>
+            <param name="price"></param>
+            <returns></returns>
+        </member>
+        <member name="T:LINQ.Controllers.SalesController">
+            <summary>
+            Represents methods to work with the table of the sales.
+            </summary>
+        </member>
+        <member name="M:LINQ.Controllers.SalesController.MakeSerializationAndDeserialization(System.String,System.String)">
+            <summary>
+            Serialize buyer table into the file by passed path and deserialize buyer table from the file by passed path. Use command s to serialize and d to deserialize.
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.SalesController.Get">
+            <summary>
+            Get the list of sales.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.SalesController.Get(System.Int32)">
+            <summary>
+            Get the sale by passed id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.SalesController.Post(System.Int32,System.Int32,System.Int32,System.Int64)">
+            <summary>
+            Add a new sale.
+            </summary>
+            <param name="buyerId"></param>
+            <param name="shopId"></param>
+            <param name="goodId"></param>
+            <param name="goodCount"></param>
+            <returns></returns>
+        </member>
+        <member name="T:LINQ.Controllers.ShopsController">
+            <summary>
+            Represents methods to work with the table of the shops.
+            </summary>
+        </member>
+        <member name="M:LINQ.Controllers.ShopsController.MakeSerializationAndDeserialization(System.String,System.String)">
+            <summary>
+            Serialize buyer table into the file by passed path and deserialize buyer table from the file by passed path. Use command s to serialize and d to deserialize.
+            </summary>
+            <param name="path"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.ShopsController.Get">
+            <summary>
+            Get the list of shops.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.ShopsController.Get(System.Int32)">
+            <summary>
+            Get the shop by passed id.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:LINQ.Controllers.ShopsController.Post(System.String,System.String,System.String)">
+            <summary>
+            Add a new shop.
+            </summary>
+            <param name="name"></param>
+            <param name="city"></param>
+            <param name="country"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
