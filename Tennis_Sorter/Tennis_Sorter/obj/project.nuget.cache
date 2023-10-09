@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "brCOVyF2edXBotY9+ih12+3hePE2Z4UhUjH+m+qt+DCmaW2nsZERWSx35/Sk1elFV3HWGQ2p+mqarW3552vzJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frolo\\OneDrive\\Рабочий стол\\Программирование С#\\Tennis_Sorter\\Tennis_Sorter\\Tennis_Sorter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frolo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\frolo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\frolo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\frolo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

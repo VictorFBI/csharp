@@ -1,0 +1,15 @@
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\bin\Debug\net6.0\Tennis_Sorter.exe
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\bin\Debug\net6.0\Tennis_Sorter.deps.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\bin\Debug\net6.0\Tennis_Sorter.runtimeconfig.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\bin\Debug\net6.0\Tennis_Sorter.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\bin\Debug\net6.0\Tennis_Sorter.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.csproj.AssemblyReference.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.AssemblyInfoInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.AssemblyInfo.cs
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.csproj.CoreCompileInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\refint\Tennis_Sorter.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\Tennis_Sorter.genruntimeconfig.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Tennis_Sorter\Tennis_Sorter\obj\Debug\net6.0\ref\Tennis_Sorter.dll
