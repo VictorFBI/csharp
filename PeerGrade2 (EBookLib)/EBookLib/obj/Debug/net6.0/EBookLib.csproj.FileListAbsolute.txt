@@ -1,0 +1,12 @@
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\bin\Debug\net6.0\EBookLib.deps.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\bin\Debug\net6.0\EBookLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\bin\Debug\net6.0\EBookLib.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.csproj.AssemblyReference.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.AssemblyInfoInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.AssemblyInfo.cs
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.csproj.CoreCompileInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\refint\EBookLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\EBookLib.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\PeerGrade\EBookLib\obj\Debug\net6.0\ref\EBookLib.dll
