@@ -1,0 +1,15 @@
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\bin\Debug\net6.0\Catchers_of_UFO.exe
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\bin\Debug\net6.0\Catchers_of_UFO.deps.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\bin\Debug\net6.0\Catchers_of_UFO.runtimeconfig.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\bin\Debug\net6.0\Catchers_of_UFO.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\bin\Debug\net6.0\Catchers_of_UFO.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.csproj.AssemblyReference.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.AssemblyInfoInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.AssemblyInfo.cs
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.csproj.CoreCompileInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\refint\Catchers_of_UFO.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\Catchers_of_UFO.genruntimeconfig.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Catchers_of_UFO\Catchers_of_UFO\obj\Debug\net6.0\ref\Catchers_of_UFO.dll

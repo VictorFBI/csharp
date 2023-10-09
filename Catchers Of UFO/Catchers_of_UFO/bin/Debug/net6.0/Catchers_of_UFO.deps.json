@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Catchers_of_UFO/1.0.0": {
+        "runtime": {
+          "Catchers_of_UFO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Catchers_of_UFO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
