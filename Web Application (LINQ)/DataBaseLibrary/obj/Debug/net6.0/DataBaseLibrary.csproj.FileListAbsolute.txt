@@ -1,0 +1,12 @@
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.deps.json
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\bin\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.AssemblyReference.cache
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfoInputs.cache
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.AssemblyInfo.cs
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.csproj.CoreCompileInputs.cache
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.dll
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\refint\DataBaseLibrary.dll
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\DataBaseLibrary.pdb
+C:\Users\frolo\RiderProjects\WebApplication7\DataBaseLibrary\obj\Debug\net6.0\ref\DataBaseLibrary.dll
