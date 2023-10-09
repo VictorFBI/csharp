@@ -1,0 +1,15 @@
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\bin\Debug\net6.0\DifferentDevices.exe
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\bin\Debug\net6.0\DifferentDevices.deps.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\bin\Debug\net6.0\DifferentDevices.runtimeconfig.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\bin\Debug\net6.0\DifferentDevices.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\bin\Debug\net6.0\DifferentDevices.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.csproj.AssemblyReference.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.AssemblyInfoInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.AssemblyInfo.cs
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.csproj.CoreCompileInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\refint\DifferentDevices.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\DifferentDevices.genruntimeconfig.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\DifferentDevices\DifferentDevices\obj\Debug\net6.0\ref\DifferentDevices.dll
