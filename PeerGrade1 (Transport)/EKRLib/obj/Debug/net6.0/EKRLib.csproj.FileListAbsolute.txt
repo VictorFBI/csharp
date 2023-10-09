@@ -1,0 +1,24 @@
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\bin\Debug\net6.0\EKRLib.deps.json
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\bin\Debug\net6.0\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\bin\Debug\net6.0\EKRLib.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.csproj.AssemblyReference.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfoInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfo.cs
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\refint\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\EKRLib.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\Программирование С#\Transport\EKRLib\obj\Debug\net6.0\ref\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\bin\Debug\net6.0\EKRLib.deps.json
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\bin\Debug\net6.0\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\bin\Debug\net6.0\EKRLib.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.csproj.AssemblyReference.cache
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfoInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.AssemblyInfo.cs
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.csproj.CoreCompileInputs.cache
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\refint\EKRLib.dll
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\EKRLib.pdb
+C:\Users\frolo\OneDrive\Рабочий стол\EKRLib\obj\Debug\net6.0\ref\EKRLib.dll
